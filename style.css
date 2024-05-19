@@ -178,7 +178,9 @@ nav button{
     text-align: center;
     padding: 36px;
 }
-
+.faqbox svg{
+    filter: invert(1);
+}
 .faqbox{
     transition: all 1s ease-out;
     font-size: 24px;
