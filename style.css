@@ -152,7 +152,7 @@ nav button{
     font-family: 'poppins', sans-serif;
     font-weight: 300;
     line-height: 1.5;
-    padding-top: 20px;
+/*     padding-top: 20px; */
 }
 
 .first-img{
@@ -166,8 +166,8 @@ nav button{
 
 .first-img video {
     position: absolute;
-    top: 90px;
-    right: 100px;
+    top: 125px;
+    right: 121px;
 }
 .faq h2{
     font-size: 40px;
